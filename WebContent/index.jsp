@@ -121,6 +121,7 @@ to, for instance, display the number of connected players.
   a general description of the problem and the time that it happened (include a time zone please!).
 </p>
 <p>
+  <b>Click here to get to the game:</b>
   <input type="button" value="I have read the above; Take me to the game!"
     onclick="window.location='game.jsp';" />
 </p>
